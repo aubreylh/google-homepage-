@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Build the Google Homepage
 
 Things I will learn include
@@ -20,3 +21,6 @@ git@github.com:aubreylh/google-homepage-.git
 
 
 
+=======
+# google-homepage-
+>>>>>>> origin/master
