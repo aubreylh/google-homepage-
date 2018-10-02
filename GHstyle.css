@@ -1,0 +1,51 @@
+.logo {
+  display: flex;
+  margin-top: 100px;
+  justify-content: center;
+}
+
+.input {
+  display: flex;
+  margin-top: -25px;
+  justify-content: center;
+  -webkit
+
+}
+
+.buttons {
+  display: flex;
+  margin-top: 10px;
+  justify-content: center;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  height: 60px;
+  border-top-width: 5px;
+  border-top-style: solid;
+  border-top-color: #FFF;
+
+   }
+
+
+header {
+  display: flex;
+  align-items: center;
+  word-spacing: 20px;
+  color: (0, 0, 0);
+  font-family: arial, sans-serif;
+  font-size: 13px;
+}
+
+#rnav{
+  margin-left: auto;
+  padding-top: 10px;
+  padding-right: 20px;
+
+}
+
+#lnav {
+  padding-top: 10px;
+  padding-left: 20px;
+}
